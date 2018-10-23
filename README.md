@@ -1,5 +1,5 @@
 # Evaluación Taller 4: CUDA
-Taller del curso Arquitectura de Computadores II, donde se utilizan GPUs NVIDIA utilizando CUDA.
+Taller del curso Arquitectura de Computadores II, donde se utiliza CUDA para ejecutar programas con GPUs NVIDIA.
 
 # Instrucciones
 Para ejecutar estos programas se debe conectar a las máquinas con GPU del SipLab.
